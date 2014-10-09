@@ -1,0 +1,24 @@
+body {
+	background: #EEE;
+	font-family: Arial, sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	margin: 0px;
+	padding: 0px;
+	min-width: 600px;
+}
+
+
+h1 {
+	font-size: 28px;
+	font-weight: bold;
+	font-family: Arial, sans-serif;
+	margin: 0px 0px 5px;
+	display: block;
+	color: #000;
+	border-bottom: 1px solid #CCC;
+}
+
+
+
+
