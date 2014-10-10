@@ -1,18 +1,20 @@
-<html>
+<!DOCTYPE html>
 <head><title>Wheel Sharing</title>
-<link rel = "stylesheet" type = "text/css" href = "/CSS/style.css">
+<link rel = "stylesheet" type = "text/css" href = "CSS/style.css">
 </head>
 <body>
 <h1>Log in</h1>
 
-<form name="loginform" action="../cgi-bin/userlogin.py" method="POST">
-Username: <input name="username" type=text size="20"/>
+<form action="cgi-bin/welcome.php" method="post">
+Email:  <input name="email" type="text" size="20"/>
 <br/>
-Password: <input name="pwd" type="password" >
+Password: <input name="password" type="password" >
 <br/>
 <input type="submit" value="Login"/> <input type="reset" value="Reset"/>
 
 </form>
-
+<div>If you don't have an account,<a 
+href="http://zzeng9.rochestercs.org/kaj/signup.html">create an 
+account.</a></div>
 </body>
 </html>

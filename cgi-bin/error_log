@@ -1,0 +1,53 @@
+[09-Oct-2014 19:48:44 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 18
+[09-Oct-2014 19:49:49 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 18
+[09-Oct-2014 19:49:50 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 18
+[09-Oct-2014 19:49:55 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 18
+[09-Oct-2014 19:51:30 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 18
+[09-Oct-2014 19:53:20 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 16
+[09-Oct-2014 19:55:19 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 16
+[09-Oct-2014 19:56:12 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 16
+[09-Oct-2014 19:59:22 America/Denver] PHP Notice:  Undefined index: email in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 2
+[09-Oct-2014 19:59:22 America/Denver] PHP Notice:  Undefined index: password in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 3
+[09-Oct-2014 19:59:22 America/Denver] PHP Notice:  Undefined index: email in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 39
+[09-Oct-2014 19:59:22 America/Denver] PHP Notice:  Undefined index: password in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 40
+[09-Oct-2014 20:00:46 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 16
+[09-Oct-2014 20:01:25 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 16
+[09-Oct-2014 20:02:43 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 16
+[09-Oct-2014 20:02:49 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 16
+[09-Oct-2014 20:08:02 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 12
+[09-Oct-2014 20:09:10 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 12
+[09-Oct-2014 20:10:41 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'zzengnin'@'localhost' (using password: NO) in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 12
+[09-Oct-2014 20:10:41 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 12
+[09-Oct-2014 20:12:08 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'zzengnin'@'localhost' (using password: NO) in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 12
+[09-Oct-2014 20:12:08 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 12
+[09-Oct-2014 20:12:37 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'zzengnin'@'localhost' (using password: NO) in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 12
+[09-Oct-2014 20:12:37 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 12
+[09-Oct-2014 20:14:36 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'zzengnin'@'localhost' (using password: NO) in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 12
+[09-Oct-2014 20:14:36 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 12
+[09-Oct-2014 20:14:36 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 15
+[09-Oct-2014 20:17:12 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'zzengnin'@'localhost' (using password: NO) in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 12
+[09-Oct-2014 20:17:12 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 12
+[09-Oct-2014 20:17:12 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 15
+[09-Oct-2014 20:22:03 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'zzengnin'@'localhost' (using password: NO) in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 12
+[09-Oct-2014 20:22:03 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 12
+[09-Oct-2014 20:22:03 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 15
+[09-Oct-2014 20:23:09 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'zzengnin'@'localhost' (using password: NO) in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 12
+[09-Oct-2014 20:23:09 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 12
+[09-Oct-2014 20:23:09 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 15
+[09-Oct-2014 20:23:51 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'zzengnin'@'localhost' (using password: NO) in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 12
+[09-Oct-2014 20:23:51 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 12
+[09-Oct-2014 20:23:51 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 15
+[09-Oct-2014 20:24:28 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'zzengnin'@'localhost' (using password: NO) in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 12
+[09-Oct-2014 20:24:28 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 12
+[09-Oct-2014 20:24:28 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 15
+[09-Oct-2014 20:25:33 America/Denver] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 12
+[09-Oct-2014 20:25:33 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 15
+[09-Oct-2014 20:26:28 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 15
+[09-Oct-2014 20:38:20 America/Denver] PHP Notice:  Undefined index: email in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 2
+[09-Oct-2014 20:38:20 America/Denver] PHP Notice:  Undefined index: password in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 3
+[09-Oct-2014 20:42:05 America/Denver] PHP Notice:  Undefined index: email in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 2
+[09-Oct-2014 20:42:05 America/Denver] PHP Notice:  Undefined index: password in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 3
+[09-Oct-2014 20:42:12 America/Denver] PHP Notice:  Undefined index: email in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 2
+[09-Oct-2014 20:42:12 America/Denver] PHP Notice:  Undefined index: password in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 3
+[09-Oct-2014 20:44:01 America/Denver] PHP Notice:  Undefined index: email in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 2
+[09-Oct-2014 20:44:01 America/Denver] PHP Notice:  Undefined index: password in /home5/zzengnin/public_html/kaj/cgi-bin/welcome.php on line 3
