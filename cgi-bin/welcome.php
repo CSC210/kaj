@@ -6,16 +6,16 @@ $dbh=mysqli_connect("localhost",
 "zzengnin","Nopointhackingme!128","zzengnin_wheel")
 or die ('Database is not able to connect');
 
-$qry= "SELECT email FROM Info WHERE email=? AND pw=?'";
+$qry= "SELECT email FROM Info WHERE email=? AND pw=?";
 
-if ($stmt = mysqli_prepare($link, qry)) {
+if ($stmt = mysqli_prepare($link, $qry)) {
 	mysqli_stmt_bind_param($stmt, "ss", $email, $pwd);
-	mysqli_stmt_bind_execute($stmt);
+	mysqli_stmt_execute($stmt);
 	
 	mysqli_stmt_bind_result($stmt, $result);
-	
+	mysqli_stmt_fetch($stmt);
+	printf("result email  is %s\n", $result);
 }
-
 
 
 if(mysqli_num_rows($result)>0)
@@ -24,8 +24,10 @@ if(mysqli_num_rows($result)>0)
 }
 else{
 	echo "Your Email or Password is WRONG!!!!";
+		
+echo $result + " result"; 
 }
-
+mysqli_stmt_close($stmt);
 mysqli_close($dbh);
 ?>
 
