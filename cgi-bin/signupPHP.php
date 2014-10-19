@@ -26,7 +26,8 @@ Welcome! Your email is:  <?php echo $_POST["email"]; ?><br>
 Your password
  is: <?php echo $_POST["pwd"]; ?><br/>
 
-<div> Go to <a href="../login.php> home page.</a></div>
+<div> Go on, you know you wanna <a href="../login.php"> log 
+in.</a></div>
 
 </body>
 </html>
