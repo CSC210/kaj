@@ -5,10 +5,12 @@
 <body>
 <h1>Log in</h1>
 
-<form action="cgi-bin/welcome.php" method="post">
-111Email:  <input name="email" type="text" size="20"/>
+<form action="cgi-bin/welcome2.php" method="post">
+Email:  <input name="email" type="text" size="20" value="<?php echo 
+$_COOKIE["email"] ?>"/>
 <br/>
-Password: <input name="password" type="password" >
+Password: <input name="password" type="password" value="<?php echo 
+$_COOKIE["password"] ?>" />
 <br/>
 <input type="submit" value="Login"/> <input type="reset" 
 value="Reset"/><br/>

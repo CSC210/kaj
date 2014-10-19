@@ -7,8 +7,9 @@ $dbh=mysqli_connect("localhost",
 or die ('I cannot connect to the database.');
 //echo "connected";
 
-$sql="INSERT INTO Info(id, pw, email, bs) VALUES('3', 
-'$pwd', '$email', '7')";
+$db_password=md5($pwd);
+$sql="INSERT INTO Info(id, pw, email, bs) VALUES('', 
+'$db_password', '$email', '7')";
 
 if(!mysqli_query($dbh, $sql)) {
 
@@ -23,9 +24,9 @@ mysqli_close($dbh);
 
 Welcome! Your email is:  <?php echo $_POST["email"]; ?><br>
 Your password
- is: <?php echo $_POST["pwd"]; ?>
+ is: <?php echo $_POST["pwd"]; ?><br/>
 
-
+<div> Go to <a href="../login.php> home page.</a></div>
 
 </body>
 </html>
